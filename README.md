@@ -2,7 +2,15 @@
 
 A feature-rich task management application built with React, Redux, and Material UI.
 
-![Task Management App Screenshot](https://via.placeholder.com/800x400?text=Task+Management+App)
+![Screenshot 2025-03-31 222046](https://github.com/user-attachments/assets/a978c613-9596-4985-a2ae-b5e1239a1590)
+![Screenshot 2025-03-31 222037](https://github.com/user-attachments/assets/29aea159-52d8-4fb9-bc92-557525c193cb)
+![Screenshot 2025-03-31 222026](https://github.com/user-attachments/assets/965f6000-fde0-43b4-9bd9-ff1a0487fa5f)
+![Screenshot 2025-03-31 222013](https://github.com/user-attachments/assets/45b18ee0-23dc-4eed-9eea-93c1c4aa4b6d)
+![Screenshot 2025-03-31 221929](https://github.com/user-attachments/assets/f1415c68-c33e-4be0-9230-36859d5cb542)
+![Screenshot 2025-03-31 221846](https://github.com/user-attachments/assets/e5103768-02af-4f7c-8ac9-9eb5756513de)
+![Screenshot 2025-03-31 221810](https://github.com/user-attachments/assets/faae1402-f1c3-4fd1-9a8e-2bd5324a8e19)
+![Screenshot 2025-03-31 221559](https://github.com/user-attachments/assets/ea55491d-62d6-474c-848f-a76239b9cfcb)
+
 
 ## Features
 
